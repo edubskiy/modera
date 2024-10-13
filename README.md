@@ -1,7 +1,5 @@
-# modera
+# Modera
 Modera - AI E-Commerce service with fitting rooms where user can create self avatar and try on clothes
-
-Вот пример ML System Design документа для проекта **Modera** в формате Markdown, который можно использовать для README на GitHub:
 
 ```md
 # Modera - ML System Design
